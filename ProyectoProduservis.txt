@@ -1,1 +1,12 @@
 Nombre del software: Produservis Colombia S.A.S
+Inicialización del proyecto Produservis
+Configuración inicial de archivos HTML, CSS y JS
+Creación de la barra de navegación con secciones: Inicio, Empleados, Elaboración, Traslado, Ventas y Resultados
+Implementación del formulario de inicio de sesión
+Formulario de creación de usuarios agregado con campos de validación
+Funcionalidad para almacenar usuarios en MySQL Workbench
+Agregado sistema de navegación entre secciones mediante botones interactivos
+Aplicación de estilos CSS personalizados para la interfaz
+Diseño adaptable para dispositivos móviles
+diseños ajustes y funcionalidades para todos los modulos del proyecto
+Subida de ultimos cambios del proyecto Produservis en el repositorio
